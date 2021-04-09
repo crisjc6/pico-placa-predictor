@@ -1,4 +1,3 @@
-import {FechaInterface} from '../interfaces/fecha.interface';
 import * as moment from 'moment';
 import {HoraInterface} from '../interfaces/hora.interface';
 import {comprobarHora} from './comprobar-hora.function';
